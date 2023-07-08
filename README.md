@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 👨‍💻 All of my projects are available at [github.com/droo8](github.com/droo8)
+- 👨‍💻 All of my projects are available at [github.com/droo8](github.com/dron008)
 
 - 💬 Ask me about **react , redux ,reduxtoolkit, rtk-query**
 
