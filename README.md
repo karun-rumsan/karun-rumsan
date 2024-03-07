@@ -1,7 +1,6 @@
-# 💫 About Me:  
+# 💫 About Me:
 🔭 I’m currently working as Full Time Full Stack Engineer.<br>👨‍💻 All of my projects are available at github.com/karun-rumsan<br>💬 Ask me about react , redux ,reduxtoolkit, rtk-query, nest, react-query, node, zustand
 
- [![](https://visitcount.itsvg.in/api?id=karun-rumsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/er-karun-gyawali/) 
@@ -17,5 +16,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=karun-rumsan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=karun-rumsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
